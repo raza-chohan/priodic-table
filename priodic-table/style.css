@@ -1,0 +1,41 @@
+h1 {
+     text-align: center; text-shadow: 4px 5px 17px blue;} 
+table{ font-family: Arial, Helvetica, sans-serif;}
+td {
+     border: 1px solid black;
+     padding: 8px;
+     text-align: center;
+     border-radius: 10px;
+}
+
+td:hover {
+     background-color: rgb(48, 16, 228);
+     color: antiquewhite;
+}
+
+#abc {
+     height: 12px;
+     width: 45px;
+}
+
+table {
+     empty-cells: hide;
+}
+
+div {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     gap: 14px;
+}
+
+.no1{ background-color:rgb(240, 135, 153)}
+.no2{ background-color: aliceblue;}
+.no3{ background-color:  peachpuff;}
+.no4{background-color: rgb(238, 185, 139);}
+.no5{background-color: rgb(222, 222, 147)}
+.no6{background-color: rgb(140, 140, 188);}
+.no7{background-color: rgb(238, 199, 205);}
+.no8{background-color: rgb(106, 177, 144)} 
+.no9{ background-color: skyblue;}
